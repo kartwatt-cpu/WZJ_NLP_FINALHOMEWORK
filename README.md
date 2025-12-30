@@ -1,11 +1,1 @@
-代码结构：
-ap_generator
-main_experiment
-model_training
-model
-|__bert_fraud_detector.pt
-|__svm_model.pkl
-
-__pycache__
-|__ap_generator.cpython-39.pyc
-|__model_training.cpython-39.pyc
+<img width="500" height="362" alt="image" src="https://github.com/user-attachments/assets/179afe32-9d77-4cc1-925f-03e7b2bed46a" />
